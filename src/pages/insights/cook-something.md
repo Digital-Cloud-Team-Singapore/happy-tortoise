@@ -12,6 +12,7 @@ no_index: false
 primary_tag: lorem-ipsum
 template: post
 image: images/10_thumb.jpg
+thumb_image: images/11_thumb.jpg
 ---
 ## Lorem ipsum
 

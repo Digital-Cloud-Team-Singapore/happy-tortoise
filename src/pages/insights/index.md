@@ -6,9 +6,9 @@ sections:
     image: images/offering_banner.png
     image_alt: App preview
     pageTitle: INSIGHTS
-    title: How we're creating impact
+    title: Lorem Ipsum
     content: >
-      Stay up to date on what's happening around <br> SwiftSight - and stay ahead of what we have planned next.
+      Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum.
     actions:
       - label: Get in touch
         url: /features

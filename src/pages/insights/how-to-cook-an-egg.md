@@ -1,6 +1,6 @@
 ---
 title: How to cook an egg
-subtitle: lorem-ipsum
+subtitle: by ust
 date: '2021-02-26T02:35:47.669Z'
 excerpt: lorem-ipsum
 image_alt: lorem-ipsum

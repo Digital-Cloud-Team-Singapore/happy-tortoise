@@ -4,7 +4,7 @@ sections:
   - section_id: swifthero
     type: section_hero
     video: false
-    video_url: 'https://player.vimeo.com/video/511009399?app_id=122963'
+    video_url: ''
     image: images/swifthomepage_1.png
     image_alt: SwiftSight Homepage
     title: Lorem ipsum dolor sit amet
@@ -29,10 +29,10 @@ sections:
 
       sed do eiusmod tempor incididunt ut labore
 
-    video_url: 'https://www.youtube.com/embed/Kc1i77VMwBE'
+    video_url: 'https://player.vimeo.com/video/511009399?app_id=122963'
   - section_id: swifthome
     type: section_overview
-    title: New Title
+    title: Lorem Ipsum
     subtitle: Lorem ipsum
     background: F2F7F8
     reviews:

@@ -29,6 +29,7 @@ sections:
 
       sed do eiusmod tempor incididunt ut labore
 
+    video_url: 'https://www.youtube.com/embed/Kc1i77VMwBE'
   - section_id: swifthome
     type: section_overview
     title: New Title

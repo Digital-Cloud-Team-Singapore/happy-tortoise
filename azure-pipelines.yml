@@ -137,10 +137,10 @@ stages:
         inputs:
           ArtifactName: drop
 
-- stage: Testing
+- stage: Test
   dependsOn: Build
   jobs:  
-  - job: Testing
+  - job: Test
     #  - GatsbyBuild
     #  - JekyllBuild
     #  - NextJsBuild
@@ -243,7 +243,7 @@ stages:
         displayName: UI Test - Publish Result     
   
 - stage: Release
-  dependsOn: Testing
+  dependsOn: Test
   jobs:
     #- job: Validation
     #  displayName: Validation

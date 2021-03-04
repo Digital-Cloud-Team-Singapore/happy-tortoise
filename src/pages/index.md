@@ -4,7 +4,7 @@ sections:
   - section_id: swifthero
     type: section_hero
     video: false
-    video_url: null
+    video_url: 'https://player.vimeo.com/video/511009399?app_id=122963'
     image: images/swifthomepage_1.png
     image_alt: SwiftSight Homepage
     title: Lorem ipsum dolor sit amet

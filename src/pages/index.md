@@ -39,7 +39,9 @@ sections:
       - title: null
         has_icon: true
         background: images/overworked_developer.png
-        content: sadsadasdsa lsadasd
+        content: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore
         type: overview_item
       - title: null
         has_icon: true

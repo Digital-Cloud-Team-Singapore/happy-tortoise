@@ -318,6 +318,33 @@ models:
         label: Title
         description: The title of the page
         required: true
+      - type: list
+        name: sections
+        label: Sections
+        description: Page sections
+        items:
+          type: model
+          labelField: title
+          models:
+            - section_content
+            - section_cta
+            - section_faq
+            - section_features
+            - section_hero
+            - section_offering
+            - section_industry
+            - section_posts
+            - section_pricing
+            - section_reviews
+            - section_overview
+            - section_contact
+            - partnership_swift
+            - section_cta_swift
+            - section_cta_common
+            - section_banner
+            - section_offering_feature
+            - about_mission
+            - themes_swift
   blog:
     type: page
     urlPath: /blog

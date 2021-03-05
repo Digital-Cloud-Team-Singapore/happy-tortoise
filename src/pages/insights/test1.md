@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: UST new digital initiatives
 subtitle: lorem-ipsum
 date: '2021-03-05T03:26:09.418Z'
 excerpt: lorem-ipsum

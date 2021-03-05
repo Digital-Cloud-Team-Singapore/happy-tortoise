@@ -1,5 +1,5 @@
 ---
-title: How to cook an egg
+title: 'Jamstack, the new trend in frontend development'
 subtitle: by ust
 date: '2021-02-26T02:35:47.669Z'
 excerpt: lorem-ipsum

@@ -6,8 +6,8 @@ sections:
     image: images/offering_banner.png
     image_alt: App preview
     pageTitle: INSIGHTS
-    title: Lorem Ipsum
-    content: >
+    title: New IT trends
+    content: |
       Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum.
     actions:
       - label: Get in touch

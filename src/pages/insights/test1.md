@@ -11,6 +11,7 @@ canonical_url: lorem-ipsum
 no_index: false
 primary_tag: lorem-ipsum
 template: post
+image: images/1.jpg
 ---
 ## Lorem ipsum
 

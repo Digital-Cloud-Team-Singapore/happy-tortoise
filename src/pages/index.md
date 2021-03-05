@@ -29,7 +29,6 @@ sections:
 
       sed do eiusmod tempor incididunt ut labore
 
-    video_url: 'https://www.youtube.com/embed/53KvlJghIUw'
   - section_id: swifthome
     type: section_overview
     title: Lorem Ipsum
